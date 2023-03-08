@@ -1,4 +1,4 @@
-﻿|![Logo de Microsoft: la historia y el significado del logotipo ...](Aspose.Words.cbd45ef3-ed3a-4f27-9e70-c1b586b36d9d.001.png)|<p>Taller Power Apps – Low Code</p><p></p><p>Roberto Corella</p>|![](Aspose.Words.cbd45ef3-ed3a-4f27-9e70-c1b586b36d9d.002.png)|
+﻿|![Logo de Microsoft: la historia y el significado del logotipo ...](recursos/Aspose.Words.cbd45ef3-ed3a-4f27-9e70-c1b586b36d9d.001.png)|<p>Taller Power Apps – Low Code</p><p></p><p>Roberto Corella</p>|![](Aspose.Words.cbd45ef3-ed3a-4f27-9e70-c1b586b36d9d.002.png)|
 | :- | :-: | -: |
 
 **Escenario**
