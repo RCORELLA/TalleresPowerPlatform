@@ -1,9 +1,12 @@
 # TalleresPowerPlatform
 
-Taller 01
-Realizar una App para analizar el sentimiento de las 
+Taller 02
 
-Mi nombre es Roberto Corella
+En este taller aprenderas a crear una app que llama a la API de chatGPT
+
+https://github.com/RCORELLA/TalleresPowerPlatform/blob/main/Taller02/Taller%2002.md
+
+Roberto Corella
 
 Twitter: @rccorella
 
