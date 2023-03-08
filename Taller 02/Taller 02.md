@@ -45,15 +45,14 @@ Si, aparece un asistente, pulsar “Omitir”
 
 9 – Ponemos un nombre a nuestra App (XX PreguntaApp) donde XX serán nuestras iniciales y seleccionamos el formato de Tableta.
 
-![Graphical user interface, application, Teams
+![](recursos/Aspose.Words.b7da1bd4-5f1e-4c7c-a978-d7831a573c9f.008.png)
 
-Description automatically generated](recursos/Aspose.Words.b7da1bd4-5f1e-4c7c-a978-d7831a573c9f.008.png)
 
 10 – Nos aparecerá un mensaje de Bienvenida.  Marcar la opción de “No volver a mostrar” y pinchar sobre “Omitir”:
 
-![Graphical user interface, text, application, email
+![](recursos/Aspose.Words.b7da1bd4-5f1e-4c7c-a978-d7831a573c9f.009.png)
 
-Description automatically generated](recursos/Aspose.Words.b7da1bd4-5f1e-4c7c-a978-d7831a573c9f.009.png)
+
 
 Los controles se añaden a nuestro lienzo desde el menú superior “+ Insertar”.
 
