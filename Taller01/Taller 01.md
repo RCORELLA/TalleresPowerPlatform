@@ -13,21 +13,21 @@ El Hotel CTA, es un hotel preocupado por la opinión de sus huéspedes, por lo q
 
 3 – Introducir el usuario suministrado y pulsar **Siguiente**
 
-`	`<cta01@M365B804054.onmicrosoft.com>
+<cta01@M365B804054.onmicrosoft.com>
 
 4 – Introducir en “**Escribir contraseña**” la contraseña suministrada y pulsar “**Iniciar sesión**”
 
 5 – Si nos indica ¿Quiere mantener la sesión iniciada? 
 
-`	`Marcar la opción “No volver a mostrar”
+Marcar la opción “No volver a mostrar”
 
-`	`Pulsar Sí.
+Pulsar Sí.
 
 ![](recursos/Aspose.Words.cbd45ef3-ed3a-4f27-9e70-c1b586b36d9d.003.png)
 
 6 – Información de contacto
 
-`	`Poner como número de teléfono 976976976 y pulsar enviar
+Poner como número de teléfono 976976976 y pulsar enviar
 
 ![](recursos/Aspose.Words.cbd45ef3-ed3a-4f27-9e70-c1b586b36d9d.004.png)
 
@@ -43,7 +43,7 @@ Si, aparece un asistente, pulsar “Omitir”
 
 ![](recursos/Aspose.Words.cbd45ef3-ed3a-4f27-9e70-c1b586b36d9d.007.png)
 
-`	`Este proceso suele tardar 10 minutos.
+Este proceso suele tardar 10 minutos.
 
 9 – Iniciar evaluación gratuita (solo en caso de que aparezca)
 
@@ -69,11 +69,11 @@ Aparecerá un mensaje indicando que la prueba gratuita se ha iniciado.
 
 ![](recursos/Aspose.Words.cbd45ef3-ed3a-4f27-9e70-c1b586b36d9d.013.png)
 
-\14.  Power Apps comienza a crear la aplicación.  Nos mostrará un mensaje indicando “Bienvenido a Power Apps Studio”.  Pulsar “Omitir”
+14 -  Power Apps comienza a crear la aplicación.  Nos mostrará un mensaje indicando “Bienvenido a Power Apps Studio”.  Pulsar “Omitir”
 
 ![](recursos/Aspose.Words.cbd45ef3-ed3a-4f27-9e70-c1b586b36d9d.014.png)
 
-\15. La aplicación está creada.  Podemos probarla pinchando en el botón “**Play**”
+15 - La aplicación está creada.  Podemos probarla pinchando en el botón “**Play**”
 
 ![](recursos/Aspose.Words.cbd45ef3-ed3a-4f27-9e70-c1b586b36d9d.015.png)
 
@@ -83,7 +83,7 @@ Aparecerá un mensaje indicando que la prueba gratuita se ha iniciado.
 
 El sistema nos dirá que la opinión es negativa al 100%.
 
-\17. Pulsar sobre el aspa situado en la parte superior derecha (NO la del navegador) para cerrar la aplicación y personalizarla.
+17 - Pulsar sobre el aspa situado en la parte superior derecha (NO la del navegador) para cerrar la aplicación y personalizarla.
 
 ![](recursos/Aspose.Words.cbd45ef3-ed3a-4f27-9e70-c1b586b36d9d.017.png)
 
@@ -210,7 +210,7 @@ Reset(TextInput2)
 
 ![](recursos/Aspose.Words.cbd45ef3-ed3a-4f27-9e70-c1b586b36d9d.042.png)
 
-`	`Cada etiqueta tendrá en la propiedad cada uno de los campos que hemos guardado:
+Cada etiqueta tendrá en la propiedad cada uno de los campos que hemos guardado:
 
 - ThisItem.Huesped
 - ThisItem.Fecha
@@ -238,4 +238,6 @@ Reset(TextInput2)
 Al introducir un texto y pulsar Analizar se conectará con la AI para ver el sentimiento del texto.  Introducimos el nombre del Huesped y seleccionamos la fecha.  Pulsamos Guardar y después Ver.
 
 ![](recursos/Aspose.Words.cbd45ef3-ed3a-4f27-9e70-c1b586b36d9d.047.png)
+
+
 09 de Marzo 2023        @rccorella
