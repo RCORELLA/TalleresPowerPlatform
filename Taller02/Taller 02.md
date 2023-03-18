@@ -1,6 +1,12 @@
 ﻿|![Logo de Microsoft: la historia y el significado del logotipo ...](recursos/Aspose.Words.b7da1bd4-5f1e-4c7c-a978-d7831a573c9f.001.png)|<p>Taller Power Apps – Low Code</p><p></p><p>Roberto Corella</p><p>Pregunta a chatGPT</p>|![](recursos/Aspose.Words.b7da1bd4-5f1e-4c7c-a978-d7831a573c9f.002.png)|
 | :- | :-: | -: |
 
+ACTUALIZADO 18/03/2023
+En este video, os muestro un ejemplo de como usar el nuevo modelo de AI Builder con Azure OpenAI lo que nos ahorra usar Power Automate.
+
+[![Alt text](https://img.youtube.com/vi/uRUF2SVWsBs/0.jpg)](https://www.youtube.com/watch?v=uRUF2SVWsBs)
+
+
 **Escenario**
 
 Queremos aprovechar la conocida herramienta de openAI que nos permite realizar consultas a la inteligencia artificial y para ello usamos su API con una aplicación de Power Apps
